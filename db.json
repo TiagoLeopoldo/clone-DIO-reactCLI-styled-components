@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "etgr",
+      "name": "Tiago",
+      "email": "tiago@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": "sdfd",
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": "1cbf",
+      "name": "TIago Alo",
+      "email": "tn@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "8d3b",
+      "name": "TIago Alo",
+      "email": "tnleopoldo.dev@gmail.com",
+      "senha": "asdfgh"
+    }
+  ]
+}
